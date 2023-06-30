@@ -1,7 +1,7 @@
 ## Аффинно-квадратичные функции в аффинно-евклидовых пространствах
 
 ---
-
+\heartsuit
 **Определение:**<a name="definition-0"></a> Пусть $\mathbb{A}$ - [аффинно-евклидово](https://mech-math-msu.github.io/lections/linear-algebra/lection-22.04.23#definition-0) пространство. [Аффинная система координат](https://mech-math-msu.github.io/lections/linear-algebra/lection-11.04.23#definition-3) $(O, e)$ *прямоугольная*, если [базис](https://mech-math-msu.github.io/lections/linear-algebra/lection-1-11.02.23#definition-7) $e$ - [ортонормирован](https://mech-math-msu.github.io/lections/linear-algebra/lection-25.03.23#definition-8).
 
 **Определение:**<a name="definition-1"></a> Пусть $\mathbb{A}$ - [аффинно-евклидово](https://mech-math-msu.github.io/lections/linear-algebra/lection-22.04.23#definition-0) пространство. $Q$ - [аффинно-квадратичная функция](https://mech-math-msu.github.io/lections/linear-algebra/lection-29.04.23#definition-1), $q$ - [квадратичная форма](https://mech-math-msu.github.io/lections/linear-algebra/lection-18.03.23#definition-3) функции $Q$. Если [матрица](https://mech-math-msu.github.io/lections/linear-algebra/lection-18.03.23#definition-3) $B$ формы $q$ - диагональна в [прямоугольной системе координат](https://mech-math-msu.github.io/lections/linear-algebra/lection-25#definition-0)  $(O, e)$, то $(O, e)$ - *главные оси*.
