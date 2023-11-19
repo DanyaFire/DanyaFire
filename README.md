@@ -1,4 +1,4 @@
-![image](https://github.com/DanyaFire/DanyaFire/assets/138053593/e9ee4deb-7ad0-4397-9719-a5c78ff1e73d)
+![image](https://github.com/DanyaFire/DanyaFire/assets/138053593/113e50a4-5fbe-45d6-b516-df68ad8d5ed9)
 - 👋 Hi there!
 - 👀 I’m interested in mathematics and coding.
 - 🌱 I’m currently learning on faculty of Mechanics and Mathematics. Alongside with this I'am learning C, C++.
