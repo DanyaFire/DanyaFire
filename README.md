@@ -1,3 +1,4 @@
+652a3430173c0679349dab5713100e27.jpg
 - 👋 Hi there!
 - 👀 I’m interested in mathematics and coding.
 - 🌱 I’m currently learning on faculty of Mechanics and Mathematics. Alongside with this I'am learning C, C++.
